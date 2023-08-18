@@ -1,0 +1,22 @@
+{
+  "name": "tdd-fizzbuzz",
+  "version": "1.0.0",
+  "description": "fizzBuzz in Js with TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "tdd",
+    "fizbuzz"
+  ],
+  "author": "Celia Millan",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.5.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
